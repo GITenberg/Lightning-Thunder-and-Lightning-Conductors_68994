@@ -1,5 +1,8 @@
 _repo: Lightning-Thunder-and-Lightning-Conductors_68994
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68994-h/images/cover.jpg
 creator:
   author:
     agent_name: Molloy, Gerald
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47142'
     url: http://www.gutenberg.org/2009/agents/47142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68994#Lightning-Thunder-and-Lightning-Conductors
 gutenberg_issued: '2022-09-15'
 identifiers:
   gutenberg: '68994'
